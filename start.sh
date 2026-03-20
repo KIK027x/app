@@ -1,6 +1,6 @@
 #!/bin/bash
-cd ffllaapp # Your app working directory!!!
-export PORT=5000
+cd app # Your app working directory!!!
+export PORT=8000
 unset PIP_USER
 
 # Create venv if not exists
